@@ -6,7 +6,7 @@
 - [🎯 Testing Scope](#-testing-scope)
 - [🗺️ Mind Map](#️-mind-map)
 - [📝 Test Scenarios](#-test-scenarios)
-- [✍️ Test Case Writing](#️-test-case-writing)
+- [✍️ Test Case](#️-test-case-writing)
 - [📊 Test Report](#-test-report)
 - [🐛 Bug Report](#-bug-report)
 - [📈 Test Metrics](#-test-metrics)
@@ -58,7 +58,8 @@ The manual testing process covered multiple aspects of the Pathao Pay App, inclu
 - Test strategy overview
 - Feature mapping
 
-<img width="547" height="490" alt="image" src="https://github.com/user-attachments/assets/188afa6f-65b0-400f-b98f-449decea5c0d" />
+<img width="776" height="682" alt="image" src="https://github.com/user-attachments/assets/35c39557-c91a-49b0-97f2-47e84b8756bf" />
+
 
 **📎 Mind Map:** <a href="https://shorturl.at/x0z1u" target="_blank" rel="noopener noreferrer">View Here</a>
 
@@ -74,7 +75,7 @@ Defined multiple test scenarios to validate:
 
 **📎 Test Scenarios:** <a href="https://shorturl.at/8d4gt" target="_blank" rel="noopener noreferrer">View Here</a>
 
-## ✍️ Test Case Writing
+## ✍️ Test Case
 
 Developed comprehensive test cases covering app modules, including navigation, payment flows, and user interactions.
 
