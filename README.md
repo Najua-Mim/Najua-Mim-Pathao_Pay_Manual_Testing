@@ -1,10 +1,8 @@
 # 📱 Pathao Pay - Manual Testing Project
-
-> Pathao Pay is a comprehensive mobile payment solution that undergoes rigorous manual testing to ensure seamless user experience across multiple modules. This repository contains a complete testing framework with detailed test scenarios, comprehensive test cases, bug tracking, and performance metrics.This project focused on manual testing to ensure the app reliability, security, and user experience across various devices.
+> A comprehensive manual testing framework for Pathao Pay mobile payment solution, ensuring reliability, security, and optimal user experience across multiple modules.
 
 ## 📋 Table of Contents
 
-- [🛠️ Tools Used](#️-tools-used)
 - [🎯 Testing Scope](#-testing-scope)
 - [🗺️ Mind Map](#️-mind-map)
 - [📝 Test Scenarios](#-test-scenarios)
@@ -12,8 +10,6 @@
 - [📊 Test Report](#-test-report)
 - [🐛 Bug Report](#-bug-report)
 - [📈 Test Metrics](#-test-metrics)
-- [🎯 Key Outcomes](#-key-outcomes)
-- [📌 Conclusion](#-conclusion)
 
 ## 📖 Project Overview
 
@@ -62,7 +58,7 @@ The manual testing process covered multiple aspects of the Pathao Pay App, inclu
 - Test strategy overview
 - Feature mapping
 
-**📎 Mind Map:** [View Here]()
+**📎 Mind Map:** <a href="https://shorturl.at/x0z1u" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📝 Test Scenarios
 
@@ -72,19 +68,21 @@ Defined multiple test scenarios to validate:
 - UI responsiveness
 - Negative test cases
 
-**📎 Test Scenarios:** [View Here](https://shorturl.at/8d4gt)
+<img width="987" height="557" alt="image" src="https://github.com/user-attachments/assets/454448c6-b953-4dd5-8012-6581315b8c73" />
+
+**📎 Test Scenarios:** <a href="https://shorturl.at/8d4gt" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## ✍️ Test Case Writing
 
 Developed comprehensive test cases covering app modules, including navigation, payment flows, and user interactions.
 
-**📎 Test Cases:** [View Here]()
+**📎 Test Cases:** <a href="https://shorturl.at/w5UCp" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📊 Test Report
 
 The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results.
 
-**📎 Test Report:** [View Here]()
+**📎 Test Report:** <a href="https://shorturl.at/w0sXf" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 🐛 Bug Report
 
@@ -93,7 +91,7 @@ Logged and documented defects with details such as:
 - Steps to reproduce
 - Screenshots and expected vs. actual results
 
-**📎 Bug Report:** [View Here]()
+**📎 Bug Report:** <a href="https://tinyurl.com/4k9b3f9e" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📈 Test Metrics
 
@@ -102,7 +100,7 @@ Tracked and analyzed test execution progress, including:
 - Defect reporting and resolution rates
 - Quality metrics and KPIs
 
-**📎 Test Metrics:** [View Here]()
+**📎 Test Metrics:** <a href="https://tinyurl.com/2jtfycp2" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 🎯 Key Outcomes
 
