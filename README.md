@@ -58,6 +58,8 @@ The manual testing process covered multiple aspects of the Pathao Pay App, inclu
 - Test strategy overview
 - Feature mapping
 
+<img width="547" height="490" alt="image" src="https://github.com/user-attachments/assets/188afa6f-65b0-400f-b98f-449decea5c0d" />
+
 **📎 Mind Map:** <a href="https://shorturl.at/x0z1u" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📝 Test Scenarios
@@ -68,7 +70,7 @@ Defined multiple test scenarios to validate:
 - UI responsiveness
 - Negative test cases
 
-<img width="987" height="557" alt="image" src="https://github.com/user-attachments/assets/454448c6-b953-4dd5-8012-6581315b8c73" />
+<img width="657" height="562" alt="image" src="https://github.com/user-attachments/assets/22181385-344c-4be4-acc5-451563ff2543" />
 
 **📎 Test Scenarios:** <a href="https://shorturl.at/8d4gt" target="_blank" rel="noopener noreferrer">View Here</a>
 
@@ -76,11 +78,15 @@ Defined multiple test scenarios to validate:
 
 Developed comprehensive test cases covering app modules, including navigation, payment flows, and user interactions.
 
+<img width="953" height="575" alt="image" src="https://github.com/user-attachments/assets/86620c62-fe8a-435e-8628-251640d7fbd0" />
+
 **📎 Test Cases:** <a href="https://shorturl.at/w5UCp" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📊 Test Report
 
 The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results.
+
+<img width="816" height="574" alt="image" src="https://github.com/user-attachments/assets/9f8a7a3c-039b-4e88-9ba0-4346958666c4" />
 
 **📎 Test Report:** <a href="https://shorturl.at/w0sXf" target="_blank" rel="noopener noreferrer">View Here</a>
 
@@ -91,6 +97,8 @@ Logged and documented defects with details such as:
 - Steps to reproduce
 - Screenshots and expected vs. actual results
 
+<img width="1151" height="536" alt="image" src="https://github.com/user-attachments/assets/61c9c408-d077-4d88-a666-dbd886d3ca6a" />
+
 **📎 Bug Report:** <a href="https://tinyurl.com/4k9b3f9e" target="_blank" rel="noopener noreferrer">View Here</a>
 
 ## 📈 Test Metrics
@@ -99,6 +107,8 @@ Tracked and analyzed test execution progress, including:
 - Test coverage percentages
 - Defect reporting and resolution rates
 - Quality metrics and KPIs
+
+<img width="764" height="333" alt="image" src="https://github.com/user-attachments/assets/8125f483-38ee-46dc-a331-f771bf085e00" />
 
 **📎 Test Metrics:** <a href="https://tinyurl.com/2jtfycp2" target="_blank" rel="noopener noreferrer">View Here</a>
 
